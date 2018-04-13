@@ -1,10 +1,15 @@
 .schedule-container {
     min-width: 800px;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Playball', cursive;
 }
 
 .input-container {
     min-width: 800px;
+    
 }
+
+
 
 body {
        background: url('../img/losangeles.jpg') no-repeat center center fixed;
@@ -12,7 +17,7 @@ body {
        -moz-background-size: cover;
        -o-background-size: cover;
        background-size: cover;
-  }
+       font-family: 'Vollkorn SC', serif;  }
 
 table {
     border-collapse: separate;
@@ -23,4 +28,5 @@ table {
     color: white;
     background-color: rgba(0,0,0,0.3);
     min-width: 800px;
+    font-family: 'Vollkorn SC', serif;
 }
