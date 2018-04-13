@@ -1,4 +1,7 @@
 # FirebaseTrainScheduler
-## Week 7 Train Schedule
+## Week 7
 
 
+
+
+This is the link to my app 
